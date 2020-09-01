@@ -51,7 +51,7 @@ Soy un estudiante de último año 🏗 que cursa una Ciclo Formativo de Grado Su
 ---
 ### Estadísticas de mi perfil en GitHub
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juanjolibrero98&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjolibrero98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juanjolibrero98&show_icons=true&theme=algolia)](#)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjolibrero98&layout=compact)](#)
  
 <hr>
 
