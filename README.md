@@ -7,7 +7,8 @@
     <h3><img src="#" width="30">👨‍💻 Juan José Librero Cansino | 💻  Desarrollador de Aplicaciones Web | 🐱‍👤 Sevilla, España <img src="#" width="30"></h3>
 </div>
 
-### ¡ Me alegro de verte aquí ! 😁 ![](https://visitor-badge.glitch.me/badge?page_id=juanjolibrero98.juanjolibrero98)https://img.shields.io/github/watchers/juanjolibrero98/juanjolibrero98?style=social
+## ¡ Me alegro de verte aquí ! 😁 ![](https://visitor-badge.glitch.me/badge?page_id=juanjolibrero98.juanjolibrero98)
+
 Soy un estudiante de último año 🏗 que cursa una Ciclo Formativo de Grado Superior sobre Desarrollo de Aplicaciones Web 🎓.En el instituto IES. Alixar en Castilleja de la Cuesta, Sevilla 🏫. Soy un joven con muchas ganas 🔋 de aprender y trabajar a través de diversas tecnologías y herramientas🛠. Me encanta explorar nuevas tecnologías y aprovecharlas para resolver problemas de la vida real.✨. 
 
 ### Más sobre mí...
@@ -20,13 +21,16 @@ Soy un estudiante de último año 🏗 que cursa una Ciclo Formativo de Grado Su
 - 🎢 La mayoría de mis  proyectos están disponibles en [Github](https://github.com/juanjolibrero98)
 - ⚡ Dato curioso:  Desarrollador de día 💻 y Gamer de noche 🎮
 
-🤔 Buscando un trabajo que me ayude a aprovechar al máximo mis habilidades.
-[Ver mi CV]() | [Ver mis certificados]()
+<div align="center">
+    🤔 Buscando un trabajo que me ayude a aprovechar al máximo mis habilidades.
+    <br>
 
+   [Ver mi CV]() | [Ver mis certificados]()
+</div>
 <hr>
 
 ### Aprendiendo estas habilidades Técnicas: 
-<p align="left">
+<p align="center">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=fff" alt="html5" style="vertical-align: top; margin: 4px 2px;">
     <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=fff" alt="css3" style="vertical-align: top; margin: 4px 2px;">
     <img src="https://img.shields.io/badge/-Sass-CC6699?logo=SASS&logoColor=fff" alt="sass" style="vertical-align: top; margin: 4px 2px;">
@@ -36,9 +40,8 @@ Soy un estudiante de último año 🏗 que cursa una Ciclo Formativo de Grado Su
     <img src="https://img.shields.io/badge/-Angular-DD0031?logo=Angular&logoColor=fff" alt="angular" style="vertical-align: top; margin: 4px 2px;">
     <img src="https://img.shields.io/badge/-Mysql-4479A1?logo=Mysql&logoColor=fff" alt="mysql" style="vertical-align: top; margin: 4px 2px;">
     <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=fff" alt="mongodb" style="vertical-align: top; margin: 4px 2px;">
-    <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL&logoColor=fff" alt="" style="vertical-align: top; margin: 4px 2px;">
-    <img src="" alt="PostgreSQL" style="vertical-align: top; margin: 4px 2px;">
-     <img src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=fff" alt="php" style="vertical-align: top; margin: 4px 2px;">
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL&logoColor=fff" alt="postgreSQL" style="vertical-align: top; margin: 4px 2px;">
+    <img src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=fff" alt="php" style="vertical-align: top; margin: 4px 2px;">
     <img src="https://img.shields.io/badge/-Google%20Chrome-4285F4?logo=Google%20Chrome&logoColor=fff" alt="googleChrome" style="vertical-align: top; margin: 4px 2px;">
     <img src="https://img.shields.io/badge/-Intellij%20IDEA-000000?logo=Intellij%20IDEA&logoColor=fff" alt="intellijIDEA" style="vertical-align: top; margin: 4px 2px;">
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=fff" alt="visualcode" style="vertical-align: top; margin: 4px 2px;">
