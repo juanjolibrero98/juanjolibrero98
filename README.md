@@ -8,7 +8,7 @@
 </div>
 
 ### ¡ Me alegro de verte aquí ! 😁 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-Soy un estudiante de último año que cursa una Ciclo Formativo de Grado Superior sobre Desarrollo de Aplicaciones Web 🎓.En el instituto IES. Alixar en Castilleja de la Cuesta, Sevilla 🏛. Soy un aprendiz apasionado que siempre está dispuesto a aprender y trabajar a través de tecnologías y dominios.💡. Me encanta explorar nuevas tecnologías y aprovecharlas para resolver problemas de la vida real.✨. 
+Soy un estudiante de último año 🏗 que cursa una Ciclo Formativo de Grado Superior sobre Desarrollo de Aplicaciones Web 🎓.En el instituto IES. Alixar en Castilleja de la Cuesta, Sevilla 🏫. Soy un joven con muchas ganas 🔋 de aprender y trabajar a través de diversas tecnologías y herramientas🛠. Me encanta explorar nuevas tecnologías y aprovecharlas para resolver problemas de la vida real.✨. 
 
 ### Más sobre mí...
 
@@ -17,7 +17,7 @@ Soy un estudiante de último año que cursa una Ciclo Formativo de Grado Superio
 - 💬 Preguntame sobre cualquier cosa en mi blog
 - 📫 Cómo contactarme: ...
 - 😄 He trabajado en: ...
-- 🎢 La mayoría de mis  proyectos están disponibles en Github(https://github.com/juanjolibrero98)
+- 🎢 La mayoría de mis  proyectos están disponibles en [Github](https://github.com/juanjolibrero98)
 - ⚡ Dato curioso:  Desarrollador de día 💻 y Gamer de noche 🎮
 
 
@@ -36,23 +36,15 @@ Soy un estudiante de último año que cursa una Ciclo Formativo de Grado Superio
 </p>    
 
 ---
+### Estadísticas de mi perfil en GitHub
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juanjolibrero98&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjolibrero98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+<hr>
+
 ### <div align="center"> 🔥  Encuéntrame en otro lugar  <img src="https://raw.githubusercontent.com/juanjolibrero98/juanjolibrero98/master/contacto.gif" height="33px"></div>
 <div align="center">
     <a href="#" target="blank"><img align="center" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram"> &nbsp; &nbsp; </a>
     <a href="#" target="blank"><img align="center" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" > &nbsp; &nbsp; </a>
     <a href="#" target="blank"><img align="center" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Twitter"></a>
 </div>
-
-<hr>
-
-# Tarjeta de estadísticas de GitHub
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juanjolibrero98&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
-
-#### Lenguajes:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjolibrero98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
-
-##### Repos:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=juanjolibrero98&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
