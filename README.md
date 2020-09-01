@@ -46,13 +46,13 @@ Soy un estudiante de último año que cursa una Ciclo Formativo de Grado Superio
 <hr>
 
 # Tarjeta de estadísticas de GitHub
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?juanjolibrero98=anuraghazra&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juanjolibrero98&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Lenguajes:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/juanjolibrero98=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjolibrero98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
 
 ##### Repos:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/juanjolibrero98=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=juanjolibrero98&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
